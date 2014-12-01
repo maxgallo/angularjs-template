@@ -1,4 +1,6 @@
 angularjs-template
 ==================
 
-Various AngularJS template
+Various AngularJS templates
+- Plain: **plain.html**
+- Custom Directive: **template.html**
